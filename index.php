@@ -15,7 +15,7 @@
 <hr>
 <h2 class="text-primary">Area de un círculo </h2>
 <div class="mx-auto">
-<form action="AreaCirculo.php" method="post">
+<form action="index.php" method="post">
 <label for="radio">Ingrese el radio del circulo:</label>
 <input class="form-control col-sm-8" type="text" name="radio" id="radio" required>
 
